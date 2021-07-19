@@ -1,3 +1,12 @@
+## [0.1.3](https://github.com/limaofeng/umi-plugin-apollo/compare/v0.1.2...v0.1.3) (2021-07-19)
+
+
+### Bug Fixes
+
+* 发布时包含 templates 目录 ([9adec70](https://github.com/limaofeng/umi-plugin-apollo/commit/9adec706e20bf234e23729ae963d98810996f5d9))
+
+
+
 ## [0.1.2](https://github.com/limaofeng/umi-plugin-apollo/compare/v0.1.1...v0.1.2) (2021-07-19)
 
 
