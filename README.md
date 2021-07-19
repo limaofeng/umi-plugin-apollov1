@@ -1,6 +1,6 @@
 # umi-plugin-apollo
 
-[![NPM version](https://img.shields.io/npm/v/umi-plugin-apollo.svg?style=flat)](https://npmjs.org/package/umi-plugin-apollo) [![NPM downloads](http://img.shields.io/npm/dm/umi-plugin-apollo.svg?style=flat)](https://npmjs.org/package/umi-plugin-apollo)
+[![NPM version](https://img.shields.io/npm/v/@asany/umi-plugin-apollo.svg?style=flat)](https://npmjs.org/package/@asany/umi-plugin-apollo) [![NPM downloads](http://img.shields.io/npm/dm/@asany/umi-plugin-apollo.svg?style=flat)](https://npmjs.org/package/@asany/umi-plugin-apollo)
 
 graphql
 
@@ -22,7 +22,7 @@ Configure in `.umirc.js`,
 
 ```js
 export default {
-  plugins: [['umi-plugin-apollo']],
+  plugins: [['@asany/umi-plugin-apollo']],
 };
 ```
 
