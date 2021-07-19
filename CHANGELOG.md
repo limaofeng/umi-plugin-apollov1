@@ -1,3 +1,7 @@
+## [0.1.1](https://github.com/limaofeng/umi-plugin-apollo/compare/v0.1.0...v0.1.1) (2021-07-19)
+
+
+
 # 0.1.0 (2021-07-19)
 
 
