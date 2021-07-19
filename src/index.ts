@@ -98,7 +98,7 @@ export default function(api: IApi) {
   const resolvers = apolloFiles.filter(x => x.fileType === 'Resolvers');
   const { name: pkgName } = require(join(api.cwd, 'package.json'));
 
-  api.logger.info('use @whir/umi-plugin-apollo');
+  api.logger.info('use @asany/umi-plugin-apollo');
 
   api.describe({
     key: 'apollo',
